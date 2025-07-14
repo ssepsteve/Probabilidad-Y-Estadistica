@@ -1,0 +1,27 @@
+{
+    "id": "C9107CB5",
+    "path": "E:/Estudios/Estadistica Y Probabilidad/AnalisisDatosFase2/Fase2.R",
+    "project_path": "Fase2.R",
+    "type": "r_source",
+    "hash": "1699543092",
+    "contents": "",
+    "dirty": true,
+    "created": 1752251547279.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "423,43",
+        "scrollLine": "318"
+    },
+    "folds": "27|48|35|0|\n102|41|106|0|\n108|24|110|0|\n112|49|117|0|\n119|85|132|0|\n148|42|162|0|\n178|40|192|0|\n201|54|216|0|\n235|56|265|0|\n268|46|293|0|\n322|60|354|0|\n366|58|382|0|\n384|64|419|0|\n",
+    "lastKnownWriteTime": 1752453197,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1752518748064,
+    "read_only": false,
+    "read_only_alternatives": []
+}
